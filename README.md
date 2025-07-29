@@ -1,18 +1,43 @@
-<<<<<<< HEAD
-# How to Create a Blog PHP & MySQL database
+# PHP Blogging Website
 
-## PHP Blogging Website
+A simple and functional blog management system built with PHP and MySQL. This project allows users to view and comment on blog posts, while administrators can manage posts through a secure admin panel.
 
+---
 
-version: 1.0.0
+## 🔧 Version
+1.0.0
 
-## TECHNOLOGIES
+---
 
-1. PHP
-1. HTML & CSS
-1. JQuery AJAX
-1. Javascript
-1. Bootstrap 5
-=======
-# Blog_web_php
->>>>>>> 92cc692c40351ba9a5ccd64852b63e40b3e73a76
+## 🛠 Technologies Used
+
+- **PHP** – Backend logic
+- **MySQL** – Database management
+- **HTML & CSS** – Structure and styling
+- **JavaScript** – Client-side interactivity
+- **jQuery & AJAX** – Asynchronous data operations
+- **Bootstrap 5** – Responsive design
+
+---
+
+## 📂 Features
+
+### Admin Panel
+- Login/logout system
+- Create, update, delete blog posts
+- Manage comments
+- Category management
+
+### User Side
+- View blogs by category
+- Post and view comments
+- Search functionality
+- User-friendly interface
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/premkumarpawar/Blog_web_php.git
